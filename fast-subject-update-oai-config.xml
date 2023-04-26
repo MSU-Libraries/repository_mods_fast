@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
-    <repoDomain>https://d.lib.msu.edu</repoDomain>
-    <namespace>vvl</namespace>
+    <repoDomain>[domain-of-repo]</repoDomain>
+    <namespace>[oai set-spec of collection]</namespace>
 </data>
